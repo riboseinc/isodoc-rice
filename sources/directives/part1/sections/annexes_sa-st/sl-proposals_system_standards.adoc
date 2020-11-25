@@ -352,3 +352,15 @@ Follow the sequence, high level structure, identical core text, common terms and
 ==== Guidance
 
 Find supporting guidance in Appendix 3 to this annex.
+
+
+// Appendices
+
+[%appendix]
+include::appendices/appendix1.adoc[leveloffset=+2]
+
+[%appendix]
+include::appendices/appendix2.adoc[leveloffset=+2]
+
+[%appendix]
+include::appendices/appendix3.adoc[leveloffset=+2]
