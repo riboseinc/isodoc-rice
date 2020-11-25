@@ -1,13 +1,9 @@
-
-// Appendix 2
-
-[appendix]
-== High level structure, identical core text, common terms and core definitions
+= High level structure, identical core text, common terms and core definitions
 
 NOTE: In the identical text proposals, XXX = an MSS discipline specific qualifier (e.g. energy, road traffic safety, IT security, food safety, societal security, environment, quality) that needs to be inserted. Blue italicized text is given as advisory notes to standards drafters.
 
 
-==== Introduction
+== Introduction
 
 .DRAFTING INSTRUCTION
 ====
@@ -20,7 +16,7 @@ HLS is highlighted in the text (clauses 1 to 10) by the use of blue font. Black 
 
 
 [[_idTextAnchor563]]
-==== Scope
+== Scope
 
 .DRAFTING INSTRUCTION
 ====
@@ -29,7 +25,7 @@ Specific to the discipline.
 
 
 [[_idTextAnchor564]]
-==== Normative references
+== Normative references
 
 .DRAFTING INSTRUCTION
 ====
@@ -38,7 +34,7 @@ Clause Title shall be used. Specific to the discipline.
 
 
 [[_idTextAnchor565]]
-==== Terms and definitions
+== Terms and definitions
 
 .DRAFTING INSTRUCTION 1
 ====
@@ -231,16 +227,16 @@ action to eliminate the cause(s) of a term:[nonconformity] and to prevent recurr
 recurring activity to enhance term:[performance]
 
 
-==== Context of the organization
+== Context of the organization
 
 [[scls_4-1]]
-===== Understanding the organization and its context
+=== Understanding the organization and its context
 
 The organization shall determine external and internal issues that are relevant to its purpose and that affect its ability to achieve the intended outcome(s) of its XXX management system.
 
 
 [[scls_4-2]]
-===== Understanding the needs and expectations of interested parties
+=== Understanding the needs and expectations of interested parties
 
 The organization shall determine:
 
@@ -249,7 +245,7 @@ The organization shall determine:
 
 
 [[_idTextAnchor569]]
-===== Determining the scope of the XXX management system
+=== Determining the scope of the XXX management system
 
 The organization shall determine the boundaries and applicability of the XXX management system to establish its scope.
 
@@ -262,16 +258,16 @@ The scope shall be available as documented information.
 
 
 [[_idTextAnchor570]]
-===== XXX management system
+=== XXX management system
 
 The organization shall establish, implement, maintain and continually improve an XXX management system, including the processes needed and their interactions, in accordance with the requirements of this document.
 
 
 [[_idTextAnchor571]]
-==== Leadership
+== Leadership
 
 [[_idTextAnchor572]]
-===== Leadership and commitment
+=== Leadership and commitment
 
 Top management shall demonstrate leadership and commitment with respect to the XXX management system by:
 
@@ -288,7 +284,7 @@ NOTE: Reference to "business" in this document can be interpreted broadly to mea
 
 
 [[_idTextAnchor573]]
-===== Policy
+=== Policy
 
 Top management shall establish a XXX policy that:
 
@@ -305,7 +301,7 @@ The XXX policy shall:
 
 
 [[_idTextAnchor574]]
-===== Roles, responsibilities and authorities
+=== Roles, responsibilities and authorities
 
 Top management shall ensure that the responsibilities and authorities for relevant roles are assigned and communicated within the organization.
 
@@ -316,10 +312,10 @@ Top management shall assign the responsibility and authority for:
 
 
 [[_idTextAnchor575]]
-==== Planning
+== Planning
 
 [[_idTextAnchor576]]
-===== Actions to address risks and opportunities
+=== Actions to address risks and opportunities
 
 When planning for the XXX management system, the organization shall consider the issues referred to in 4.1 and the requirements referred to in 4.2 and determine the risks and opportunities that need to be addressed to:
 
@@ -336,7 +332,7 @@ The organization shall plan:
 
 
 [[_idTextAnchor577]]
-===== XXX objectives and planning to achieve them
+=== XXX objectives and planning to achieve them
 
 The organization shall establish XXX objectives at relevant functions and levels.
 
@@ -361,15 +357,15 @@ When planning how to achieve its XXX objectives, the organization shall determin
 
 
 [[_idTextAnchor578]]
-==== Support
+== Support
 
 [[_idTextAnchor579]]
-===== Resources
+=== Resources
 
 The organization shall determine and provide the resources needed for the establishment, implementation, maintenance and continual improvement of the XXX management system.
 
 [[_idTextAnchor580]]
-===== Competence
+=== Competence
 
 The organization shall:
 
@@ -382,7 +378,7 @@ NOTE: Applicable actions can include, for example, the provision of training to,
 
 
 [[_idTextAnchor581]]
-===== Awareness
+=== Awareness
 
 Persons doing work under the organization's control shall be aware of:
 
@@ -392,7 +388,7 @@ Persons doing work under the organization's control shall be aware of:
 
 
 [[_idTextAnchor582]]
-===== Communication
+=== Communication
 
 The organization shall determine the internal and external communications relevant to the XXX management system, including:
 
@@ -403,10 +399,10 @@ The organization shall determine the internal and external communications releva
 
 
 [[_idTextAnchor583]]
-===== Documented information
+=== Documented information
 
 [[_idTextAnchor584]]
-====== General
+==== General
 
 The organization's XXX management system shall include:
 
@@ -424,7 +420,7 @@ The extent of documented information for a XXX management system can differ from
 
 
 [[_idTextAnchor585]]
-====== Creating and updating
+==== Creating and updating
 
 When creating and updating documented information the organization shall ensure appropriate:
 
@@ -434,7 +430,7 @@ When creating and updating documented information the organization shall ensure 
 
 
 [[_idTextAnchor586]]
-====== Control of documented information
+==== Control of documented information
 
 Documented information required by the XXX management system and by this document shall be controlled to ensure:
 
@@ -454,10 +450,10 @@ NOTE: Access can imply a decision regarding the permission to view the documente
 
 
 [[_idTextAnchor587]]
-==== Operation
+== Operation
 
 [[_idTextAnchor588]]
-===== Operational planning and control
+=== Operational planning and control
 
 .DRAFTING INSTRUCTION
 ====
@@ -476,10 +472,10 @@ The organization shall ensure that outsourced processes are controlled.
 
 
 [[_idTextAnchor589]]
-==== Performance evaluation
+== Performance evaluation
 
 [[_idTextAnchor590]]
-===== Monitoring, measurement, analysis and evaluation
+=== Monitoring, measurement, analysis and evaluation
 
 The organization shall determine:
 
@@ -494,10 +490,12 @@ The organization shall evaluate the XXX performance and the effectiveness of the
 
 
 [[_idTextAnchor591]]
-===== Internal audit
+=== Internal audit
 
 [[_idTextAnchor592]]
-===== The organization shall conduct internal audits at planned intervals to provide information on whether the XXX management system:
+===== {blank}
+
+The organization shall conduct internal audits at planned intervals to provide information on whether the XXX management system:
 
 . conforms to:
 ** the organization's own requirements for its XXX management system;
@@ -506,7 +504,9 @@ The organization shall evaluate the XXX performance and the effectiveness of the
 
 
 [[_idTextAnchor593]]
-===== The organization shall:
+===== {blank}
+
+The organization shall:
 
 . plan, establish, implement and maintain an audit programme(s) including the frequency, methods, responsibilities, planning requirements and reporting, which shall take into consideration the importance of the processes concerned and the results of previous audits;
 . define the audit criteria and scope for each audit;
@@ -516,7 +516,7 @@ The organization shall evaluate the XXX performance and the effectiveness of the
 
 
 [[_idTextAnchor594]]
-===== Management review
+=== Management review
 
 Top management shall review the organization's XXX management system, at planned intervals, to ensure its continuing suitability, adequacy and effectiveness.
 
@@ -536,10 +536,10 @@ The organization shall retain documented information as evidence of the results 
 
 
 [[_idTextAnchor595]]
-==== Improvement
+== Improvement
 
 [[_idTextAnchor596]]
-===== Nonconformity and corrective action
+=== Nonconformity and corrective action
 
 When a nonconformity occurs, the organization shall:
 
@@ -563,7 +563,7 @@ The organization shall retain documented information as evidence of:
 
 
 [[_idTextAnchor597]]
-===== Continual improvement
+=== Continual improvement
 
 The organization shall continually improve the suitability, adequacy and effectiveness of the XXX management system.
 

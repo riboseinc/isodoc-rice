@@ -1,11 +1,7 @@
-
-// Appendix 1
-
-[appendix]
-== Justification criteria questions
+= Justification criteria questions
 
 [[_idTextAnchor562]]
-=== General
+== General
 
 The list of questions to be addressed in the justification study are in line with the principles listed in <<_idTextAnchor541>>. This list is not exhaustive. Additional information not covered by the questions should be provided if it is relevant to the case.
 
