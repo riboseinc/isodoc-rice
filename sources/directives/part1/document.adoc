@@ -79,11 +79,6 @@ include::sections/annexes_sa-st/ss-optional_use.adoc[]
 include::sections/annexes_sa-st/st-twinning_policy.adoc[]
 
 
-// Appendices
-include::sections/appendices/za-appendix1.adoc[]
-include::sections/appendices/zb-appendix2.adoc[]
-include::sections/appendices/zc-appendix3.adoc[]
-
 
 // Reference documents
 include::sections/99-reference_documents.adoc[]
