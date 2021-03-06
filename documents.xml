@@ -1,0 +1,996 @@
+<relaton-collection xmlns="https://open.ribose.com/relaton-xml"><title>ISO sample documents in Metanorma (Metanorma AsciiDoc syntax)</title><contributor><role type='author'/><organization><name>Metanorma : Standards for standards</name></organization></contributor><relation type='partOf'><bibdata type="standard">
+  <title type="main" format="text/plain" language="en">Cereals and pulses — Specifications and test methods — Rice (AWI)</title>
+  <title type="title-intro" format="text/plain" language="en">Cereals and pulses</title>
+  <title type="title-main" format="text/plain" language="en">Specifications and test methods</title>
+  <title type="title-part" format="text/plain" language="en">Rice (AWI)</title>
+  <title type="main" format="text/plain" language="fr">Céréales et légumineuses — Spécification et méthodes d’essai — Riz (AWI)</title>
+  <title type="title-intro" format="text/plain" language="fr">Céréales et légumineuses</title>
+  <title type="title-main" format="text/plain" language="fr">Spécification et méthodes d’essai</title>
+  <title type="title-part" format="text/plain" language="fr">Riz (AWI)</title>
+  <uri type="xml">documents/international-standard/rice-en.awi.xml</uri>
+  <uri type="pdf">documents/international-standard/rice-en.awi.pdf</uri>
+  <uri type="doc">documents/international-standard/rice-en.awi.doc</uri>
+  <uri type="html">documents/international-standard/rice-en.awi.html</uri>
+  <uri type="rxl">documents/international-standard/rice-en.awi.rxl</uri>
+  <docidentifier type="ISO">ISO/NWIP 17301-1</docidentifier>
+  <docidentifier type="iso-with-lang">ISO/NWIP 17301-1(E)</docidentifier>
+  <docidentifier type="iso-reference">ISO/NWIP 17301-1:2016(E)</docidentifier>
+  <docidentifier type="iso-tc">17301</docidentifier>
+  <docnumber>17301</docnumber>
+  <contributor>
+    <role type="author"/>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <edition>2</edition>
+  <version>
+    <revision-date>2016-05-01</revision-date>
+  </version>
+  <language>en</language>
+  <script>Latn</script>
+  <status>
+    <stage abbreviation="NWIP">10</stage>
+    <substage>99</substage>
+  </status>
+  <copyright>
+    <from>2016</from>
+    <owner>
+      <organization>
+        <name>International Organization for Standardization</name>
+        <abbreviation>ISO</abbreviation>
+      </organization>
+    </owner>
+  </copyright>
+  <ext>
+    <doctype>international-standard</doctype>
+    <editorialgroup>
+      <technical-committee number="34">Food products</technical-committee>
+      <subcommittee number="4">Cereals and pulses</subcommittee>
+      <workgroup number="4" type="WG">Amylose in rice</workgroup>
+      <secretariat>SAC</secretariat>
+    </editorialgroup>
+    <ics>
+      <code>67.060</code>
+      <text/>
+    </ics>
+    <structuredidentifier>
+      <project-number part="1">ISO 17301</project-number>
+    </structuredidentifier>
+    <stagename>New work item proposal</stagename>
+  </ext>
+</bibdata></relation>
+<relation type='partOf'><bibdata type="standard">
+  <title type="main" format="text/plain" language="en">Cereals and pulses — Specifications and test methods — Rice</title>
+  <title type="title-intro" format="text/plain" language="en">Cereals and pulses</title>
+  <title type="title-main" format="text/plain" language="en">Specifications and test methods</title>
+  <title type="title-part" format="text/plain" language="en">Rice</title>
+  <title type="main" format="text/plain" language="fr">Céréales et légumineuses — Spécification et méthodes d’essai — Riz</title>
+  <title type="title-intro" format="text/plain" language="fr">Céréales et légumineuses</title>
+  <title type="title-main" format="text/plain" language="fr">Spécification et méthodes d’essai</title>
+  <title type="title-part" format="text/plain" language="fr">Riz</title>
+  <uri type="xml">documents/international-standard/rice-fr.xml</uri>
+  <uri type="pdf">documents/international-standard/rice-fr.pdf</uri>
+  <uri type="doc">documents/international-standard/rice-fr.doc</uri>
+  <uri type="html">documents/international-standard/rice-fr.html</uri>
+  <uri type="rxl">documents/international-standard/rice-fr.rxl</uri>
+  <docidentifier type="ISO">ISO/CD 17301-1</docidentifier>
+  <docidentifier type="iso-with-lang">ISO/CD 17301-1(F)</docidentifier>
+  <docidentifier type="iso-reference">ISO/CD 17301-1:2016(F)</docidentifier>
+  <docidentifier type="iso-tc">17301</docidentifier>
+  <docnumber>17301</docnumber>
+  <contributor>
+    <role type="author"/>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <edition>2</edition>
+  <version>
+    <revision-date>2016-05-01</revision-date>
+  </version>
+  <language>fr</language>
+  <script>Latn</script>
+  <status>
+    <stage abbreviation="CD">30</stage>
+    <substage>92</substage>
+  </status>
+  <copyright>
+    <from>2016</from>
+    <owner>
+      <organization>
+        <name>International Organization for Standardization</name>
+        <abbreviation>ISO</abbreviation>
+      </organization>
+    </owner>
+  </copyright>
+  <ext>
+    <doctype>international-standard</doctype>
+    <editorialgroup>
+      <technical-committee number="34">Produits alimentaires</technical-committee>
+      <subcommittee number="4">Céréales et légumineuses</subcommittee>
+      <workgroup number="3">Rice Group</workgroup>
+    </editorialgroup>
+    <ics>
+      <code>67.060</code>
+      <text/>
+    </ics>
+    <structuredidentifier>
+      <project-number part="1">ISO 17301</project-number>
+    </structuredidentifier>
+    <stagename>Committee draft</stagename>
+  </ext>
+</bibdata></relation>
+<relation type='partOf'><bibdata type="standard">
+  <title type="main" format="text/plain" language="en">Cereals and pulses — Specifications and test methods — Rice (DIS)</title>
+  <title type="title-intro" format="text/plain" language="en">Cereals and pulses</title>
+  <title type="title-main" format="text/plain" language="en">Specifications and test methods</title>
+  <title type="title-part" format="text/plain" language="en">Rice (DIS)</title>
+  <title type="main" format="text/plain" language="fr">Céréales et légumineuses — Spécification et méthodes d’essai — Riz (DIS)</title>
+  <title type="title-intro" format="text/plain" language="fr">Céréales et légumineuses</title>
+  <title type="title-main" format="text/plain" language="fr">Spécification et méthodes d’essai</title>
+  <title type="title-part" format="text/plain" language="fr">Riz (DIS)</title>
+  <uri type="xml">documents/international-standard/rice-en.dis.xml</uri>
+  <uri type="pdf">documents/international-standard/rice-en.dis.pdf</uri>
+  <uri type="doc">documents/international-standard/rice-en.dis.doc</uri>
+  <uri type="html">documents/international-standard/rice-en.dis.html</uri>
+  <uri type="rxl">documents/international-standard/rice-en.dis.rxl</uri>
+  <docidentifier type="ISO">ISO/DIS 17301-1</docidentifier>
+  <docidentifier type="iso-with-lang">ISO/DIS 17301-1(E)</docidentifier>
+  <docidentifier type="iso-reference">ISO/DIS 17301-1:2016(E)</docidentifier>
+  <docidentifier type="iso-tc">17301</docidentifier>
+  <docnumber>17301</docnumber>
+  <date type="vote-started">
+    <on>2020-02-19</on>
+  </date>
+  <date type="vote-ended">
+    <on>2020-05-13</on>
+  </date>
+  <contributor>
+    <role type="author"/>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <edition>2</edition>
+  <version>
+    <revision-date>2016-05-01</revision-date>
+  </version>
+  <language>en</language>
+  <script>Latn</script>
+  <status>
+    <stage abbreviation="DIS">40</stage>
+    <substage>00</substage>
+  </status>
+  <copyright>
+    <from>2016</from>
+    <owner>
+      <organization>
+        <name>International Organization for Standardization</name>
+        <abbreviation>ISO</abbreviation>
+      </organization>
+    </owner>
+  </copyright>
+  <ext>
+    <doctype>international-standard</doctype>
+    <editorialgroup>
+      <technical-committee number="34">Food products</technical-committee>
+      <subcommittee number="4">Cereals and pulses</subcommittee>
+      <workgroup number="4" type="WG">Amylose in rice</workgroup>
+      <secretariat>SAC</secretariat>
+    </editorialgroup>
+    <ics>
+      <code>67.060</code>
+      <text/>
+    </ics>
+    <structuredidentifier>
+      <project-number part="1">ISO 17301</project-number>
+    </structuredidentifier>
+    <stagename>Draft</stagename>
+  </ext>
+</bibdata></relation>
+<relation type='partOf'><bibdata type="standard">
+  <title type="main" format="text/plain" language="en">Cereals and pulses — Specifications and test methods — Rice (NP)</title>
+  <title type="title-intro" format="text/plain" language="en">Cereals and pulses</title>
+  <title type="title-main" format="text/plain" language="en">Specifications and test methods</title>
+  <title type="title-part" format="text/plain" language="en">Rice (NP)</title>
+  <title type="main" format="text/plain" language="fr">Céréales et légumineuses — Spécification et méthodes d’essai — Riz (NP)</title>
+  <title type="title-intro" format="text/plain" language="fr">Céréales et légumineuses</title>
+  <title type="title-main" format="text/plain" language="fr">Spécification et méthodes d’essai</title>
+  <title type="title-part" format="text/plain" language="fr">Riz (NP)</title>
+  <uri type="xml">documents/international-standard/rice-en.np.xml</uri>
+  <uri type="pdf">documents/international-standard/rice-en.np.pdf</uri>
+  <uri type="doc">documents/international-standard/rice-en.np.doc</uri>
+  <uri type="html">documents/international-standard/rice-en.np.html</uri>
+  <uri type="rxl">documents/international-standard/rice-en.np.rxl</uri>
+  <docidentifier type="ISO">ISO/PWI 17301-1</docidentifier>
+  <docidentifier type="iso-with-lang">ISO/PWI 17301-1(E)</docidentifier>
+  <docidentifier type="iso-reference">ISO/PWI 17301-1:2016(E)</docidentifier>
+  <docidentifier type="iso-tc">17301</docidentifier>
+  <docnumber>17301</docnumber>
+  <contributor>
+    <role type="author"/>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <edition>2</edition>
+  <version>
+    <revision-date>2016-05-01</revision-date>
+  </version>
+  <language>en</language>
+  <script>Latn</script>
+  <status>
+    <stage abbreviation="PWI">00</stage>
+    <substage>00</substage>
+  </status>
+  <copyright>
+    <from>2016</from>
+    <owner>
+      <organization>
+        <name>International Organization for Standardization</name>
+        <abbreviation>ISO</abbreviation>
+      </organization>
+    </owner>
+  </copyright>
+  <ext>
+    <doctype>international-standard</doctype>
+    <editorialgroup>
+      <technical-committee number="34">Food products</technical-committee>
+      <subcommittee number="4">Cereals and pulses</subcommittee>
+      <workgroup number="4" type="WG">Amylose in rice</workgroup>
+      <secretariat>SAC</secretariat>
+    </editorialgroup>
+    <ics>
+      <code>67.060</code>
+      <text/>
+    </ics>
+    <structuredidentifier>
+      <project-number part="1">ISO 17301</project-number>
+    </structuredidentifier>
+    <stagename>Preliminary work item</stagename>
+  </ext>
+</bibdata></relation>
+<relation type='partOf'><bibdata type="standard">
+  <title type="main" format="text/plain" language="en">Cereals and pulses — Specifications and test methods — Rice (FDIS)</title>
+  <title type="title-intro" format="text/plain" language="en">Cereals and pulses</title>
+  <title type="title-main" format="text/plain" language="en">Specifications and test methods</title>
+  <title type="title-part" format="text/plain" language="en">Rice (FDIS)</title>
+  <title type="main" format="text/plain" language="fr">Céréales et légumineuses — Spécification et méthodes d’essai — Riz (FDIS)</title>
+  <title type="title-intro" format="text/plain" language="fr">Céréales et légumineuses</title>
+  <title type="title-main" format="text/plain" language="fr">Spécification et méthodes d’essai</title>
+  <title type="title-part" format="text/plain" language="fr">Riz (FDIS)</title>
+  <uri type="xml">documents/international-standard/rice-en.fdis.xml</uri>
+  <uri type="pdf">documents/international-standard/rice-en.fdis.pdf</uri>
+  <uri type="doc">documents/international-standard/rice-en.fdis.doc</uri>
+  <uri type="html">documents/international-standard/rice-en.fdis.html</uri>
+  <uri type="rxl">documents/international-standard/rice-en.fdis.rxl</uri>
+  <docidentifier type="ISO">ISO/FDIS 17301-1</docidentifier>
+  <docidentifier type="iso-with-lang">ISO/FDIS 17301-1(E)</docidentifier>
+  <docidentifier type="iso-reference">ISO/FDIS 17301-1:2016(E)</docidentifier>
+  <docidentifier type="iso-tc">17301</docidentifier>
+  <docnumber>17301</docnumber>
+  <contributor>
+    <role type="author"/>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <edition>2</edition>
+  <version>
+    <revision-date>2016-05-01</revision-date>
+  </version>
+  <language>en</language>
+  <script>Latn</script>
+  <status>
+    <stage abbreviation="FDIS">50</stage>
+    <substage>00</substage>
+  </status>
+  <copyright>
+    <from>2016</from>
+    <owner>
+      <organization>
+        <name>International Organization for Standardization</name>
+        <abbreviation>ISO</abbreviation>
+      </organization>
+    </owner>
+  </copyright>
+  <ext>
+    <doctype>international-standard</doctype>
+    <editorialgroup>
+      <technical-committee number="34">Food products</technical-committee>
+      <subcommittee number="4">Cereals and pulses</subcommittee>
+      <workgroup number="4" type="WG">Amylose in rice</workgroup>
+      <secretariat>SAC</secretariat>
+    </editorialgroup>
+    <ics>
+      <code>67.060</code>
+      <text/>
+    </ics>
+    <structuredidentifier>
+      <project-number part="1">ISO 17301</project-number>
+    </structuredidentifier>
+    <stagename>Final draft</stagename>
+  </ext>
+</bibdata></relation>
+<relation type='partOf'><bibdata type="standard">
+  <title type="main" format="text/plain" language="en">Cereals and pulses — Specifications and test methods — Rice (WD)</title>
+  <title type="title-intro" format="text/plain" language="en">Cereals and pulses</title>
+  <title type="title-main" format="text/plain" language="en">Specifications and test methods</title>
+  <title type="title-part" format="text/plain" language="en">Rice (WD)</title>
+  <title type="main" format="text/plain" language="fr">Céréales et légumineuses — Spécification et méthodes d’essai — Riz (WD)</title>
+  <title type="title-intro" format="text/plain" language="fr">Céréales et légumineuses</title>
+  <title type="title-main" format="text/plain" language="fr">Spécification et méthodes d’essai</title>
+  <title type="title-part" format="text/plain" language="fr">Riz (WD)</title>
+  <uri type="xml">documents/international-standard/rice-en.wd.xml</uri>
+  <uri type="pdf">documents/international-standard/rice-en.wd.pdf</uri>
+  <uri type="doc">documents/international-standard/rice-en.wd.doc</uri>
+  <uri type="html">documents/international-standard/rice-en.wd.html</uri>
+  <uri type="rxl">documents/international-standard/rice-en.wd.rxl</uri>
+  <docidentifier type="ISO">ISO/WD 17301-1</docidentifier>
+  <docidentifier type="iso-with-lang">ISO/WD 17301-1(E)</docidentifier>
+  <docidentifier type="iso-reference">ISO/WD 17301-1:2016(E)</docidentifier>
+  <docidentifier type="iso-tc">17301</docidentifier>
+  <docnumber>17301</docnumber>
+  <contributor>
+    <role type="author"/>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <edition>2</edition>
+  <version>
+    <revision-date>2016-05-01</revision-date>
+  </version>
+  <language>en</language>
+  <script>Latn</script>
+  <status>
+    <stage abbreviation="WD">20</stage>
+    <substage>00</substage>
+  </status>
+  <copyright>
+    <from>2016</from>
+    <owner>
+      <organization>
+        <name>International Organization for Standardization</name>
+        <abbreviation>ISO</abbreviation>
+      </organization>
+    </owner>
+  </copyright>
+  <ext>
+    <doctype>international-standard</doctype>
+    <editorialgroup>
+      <technical-committee number="34">Food products</technical-committee>
+      <subcommittee number="4">Cereals and pulses</subcommittee>
+      <workgroup number="4" type="WG">Amylose in rice</workgroup>
+      <secretariat>SAC</secretariat>
+    </editorialgroup>
+    <ics>
+      <code>67.060</code>
+      <text/>
+    </ics>
+    <structuredidentifier>
+      <project-number part="1">ISO 17301</project-number>
+    </structuredidentifier>
+    <stagename>Working draft</stagename>
+  </ext>
+</bibdata></relation>
+<relation type='partOf'><bibdata type="standard">
+  <title type="main" format="text/plain" language="en">Cereals and pulses — Specifications and test methods — Rice (Final)</title>
+  <title type="title-intro" format="text/plain" language="en">Cereals and pulses</title>
+  <title type="title-main" format="text/plain" language="en">Specifications and test methods</title>
+  <title type="title-part" format="text/plain" language="en">Rice (Final)</title>
+  <title type="main" format="text/plain" language="fr">Céréales et légumineuses — Spécification et méthodes d’essai — Riz (Final)</title>
+  <title type="title-intro" format="text/plain" language="fr">Céréales et légumineuses</title>
+  <title type="title-main" format="text/plain" language="fr">Spécification et méthodes d’essai</title>
+  <title type="title-part" format="text/plain" language="fr">Riz (Final)</title>
+  <uri type="xml">documents/international-standard/rice-en.final.xml</uri>
+  <uri type="pdf">documents/international-standard/rice-en.final.pdf</uri>
+  <uri type="doc">documents/international-standard/rice-en.final.doc</uri>
+  <uri type="html">documents/international-standard/rice-en.final.html</uri>
+  <uri type="rxl">documents/international-standard/rice-en.final.rxl</uri>
+  <docidentifier type="ISO">ISO 17301-1:2016</docidentifier>
+  <docidentifier type="iso-with-lang">ISO 17301-1:2016(E)</docidentifier>
+  <docidentifier type="iso-reference">ISO 17301-1:2016(E)</docidentifier>
+  <docidentifier type="iso-tc">17301</docidentifier>
+  <docnumber>17301</docnumber>
+  <contributor>
+    <role type="author"/>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <edition>2</edition>
+  <version>
+    <revision-date>2016-05-01</revision-date>
+  </version>
+  <language>en</language>
+  <script>Latn</script>
+  <status>
+    <stage abbreviation="IS">60</stage>
+    <substage>60</substage>
+  </status>
+  <copyright>
+    <from>2016</from>
+    <owner>
+      <organization>
+        <name>International Organization for Standardization</name>
+        <abbreviation>ISO</abbreviation>
+      </organization>
+    </owner>
+  </copyright>
+  <ext>
+    <doctype>international-standard</doctype>
+    <editorialgroup>
+      <technical-committee number="34">Food products</technical-committee>
+      <subcommittee number="4">Cereals and pulses</subcommittee>
+      <workgroup number="4" type="WG">Amylose in rice</workgroup>
+      <secretariat>SAC</secretariat>
+    </editorialgroup>
+    <ics>
+      <code>67.060</code>
+      <text/>
+    </ics>
+    <structuredidentifier>
+      <project-number part="1">ISO 17301</project-number>
+    </structuredidentifier>
+    <stagename>International standard</stagename>
+  </ext>
+</bibdata></relation>
+<relation type='partOf'><bibdata type="standard">
+  <title type="main" format="text/plain" language="en">Cereals and pulses — Specification and test methods — Rice (CD) — Mass fraction of extraneous matter, milled rice (nonglutinous), sample dividers and recommendations relating to storage and transport conditions</title>
+  <title type="title-intro" format="text/plain" language="en">Cereals and pulses</title>
+  <title type="title-main" format="text/plain" language="en">Specification and test methods</title>
+  <title type="title-part" format="text/plain" language="en">Rice (CD)</title>
+  <title type="title-amd" format="text/plain" language="en">Mass fraction of extraneous matter, milled rice (nonglutinous), sample dividers and recommendations relating to storage and transport conditions</title>
+  <title type="main" format="text/plain" language="fr">Céréales et légumineuses — Spécification et méthodes d’essai — Riz (CD) — Fraction massique de matière étrangère, riz usiné (non gluant), diviseurs d’échantillon et recommandations relatives aux conditions d’entreposage et de transport</title>
+  <title type="title-intro" format="text/plain" language="fr">Céréales et légumineuses</title>
+  <title type="title-main" format="text/plain" language="fr">Spécification et méthodes d’essai</title>
+  <title type="title-part" format="text/plain" language="fr">Riz (CD)</title>
+  <title type="title-amd" format="text/plain" language="fr">Fraction massique de matière étrangère, riz usiné (non gluant), diviseurs d’échantillon et recommandations relatives aux conditions d’entreposage et de transport</title>
+  <uri type="xml">documents/amendment/rice-amd.cd.xml</uri>
+  <uri type="pdf">documents/amendment/rice-amd.cd.pdf</uri>
+  <uri type="doc">documents/amendment/rice-amd.cd.doc</uri>
+  <uri type="html">documents/amendment/rice-amd.cd.html</uri>
+  <uri type="rxl">documents/amendment/rice-amd.cd.rxl</uri>
+  <docidentifier type="ISO">ISO 17301-1:2016/CD Amd 1</docidentifier>
+  <docidentifier type="iso-with-lang">ISO 17301-1:2016/CD Amd 1(E)</docidentifier>
+  <docidentifier type="iso-reference">ISO 17301-1:2016/CD Amd 1:2017(E)</docidentifier>
+  <docnumber>17301</docnumber>
+  <date type="created">
+    <on>2016-05-01</on>
+  </date>
+  <contributor>
+    <role type="author"/>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <edition>2</edition>
+  <version/>
+  <language>en</language>
+  <script>Latn</script>
+  <status>
+    <stage abbreviation="CD">30</stage>
+    <substage>00</substage>
+  </status>
+  <copyright>
+    <from>2017</from>
+    <owner>
+      <organization>
+        <name>International Organization for Standardization</name>
+        <abbreviation>ISO</abbreviation>
+      </organization>
+    </owner>
+  </copyright>
+  <ext>
+    <doctype>amendment</doctype>
+    <editorialgroup>
+      <technical-committee number="34">Food products</technical-committee>
+      <subcommittee number="4" type="SC">Cereals and pulses</subcommittee>
+      <workgroup number="4" type="WG">Amylose in rice</workgroup>
+    </editorialgroup>
+    <ics>
+      <code>67.060</code>
+      <text/>
+    </ics>
+    <structuredidentifier>
+      <project-number part="1">17301</project-number>
+    </structuredidentifier>
+    <stagename>Committee draft</stagename>
+  </ext>
+</bibdata></relation>
+<relation type='partOf'><bibdata type="standard">
+  <title type="main" format="text/plain" language="en">Cereals and pulses — Specification and test methods — Rice (NP) — Mass fraction of extraneous matter, milled rice (nonglutinous), sample dividers and recommendations relating to storage and transport conditions</title>
+  <title type="title-intro" format="text/plain" language="en">Cereals and pulses</title>
+  <title type="title-main" format="text/plain" language="en">Specification and test methods</title>
+  <title type="title-part" format="text/plain" language="en">Rice (NP)</title>
+  <title type="title-amd" format="text/plain" language="en">Mass fraction of extraneous matter, milled rice (nonglutinous), sample dividers and recommendations relating to storage and transport conditions</title>
+  <title type="main" format="text/plain" language="fr">Céréales et légumineuses — Spécification et méthodes d’essai — Riz (NP) — Fraction massique de matière étrangère, riz usiné (non gluant), diviseurs d’échantillon et recommandations relatives aux conditions d’entreposage et de transport</title>
+  <title type="title-intro" format="text/plain" language="fr">Céréales et légumineuses</title>
+  <title type="title-main" format="text/plain" language="fr">Spécification et méthodes d’essai</title>
+  <title type="title-part" format="text/plain" language="fr">Riz (NP)</title>
+  <title type="title-amd" format="text/plain" language="fr">Fraction massique de matière étrangère, riz usiné (non gluant), diviseurs d’échantillon et recommandations relatives aux conditions d’entreposage et de transport</title>
+  <uri type="xml">documents/amendment/rice-amd.np.xml</uri>
+  <uri type="pdf">documents/amendment/rice-amd.np.pdf</uri>
+  <uri type="doc">documents/amendment/rice-amd.np.doc</uri>
+  <uri type="html">documents/amendment/rice-amd.np.html</uri>
+  <uri type="rxl">documents/amendment/rice-amd.np.rxl</uri>
+  <docidentifier type="ISO">ISO 17301-1:2016/PWI Amd 1</docidentifier>
+  <docidentifier type="iso-with-lang">ISO 17301-1:2016/PWI Amd 1(E)</docidentifier>
+  <docidentifier type="iso-reference">ISO 17301-1:2016/PWI Amd 1:2017(E)</docidentifier>
+  <docnumber>17301</docnumber>
+  <date type="created">
+    <on>2016-05-01</on>
+  </date>
+  <contributor>
+    <role type="author"/>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <edition>2</edition>
+  <version/>
+  <language>en</language>
+  <script>Latn</script>
+  <status>
+    <stage abbreviation="PWI">00</stage>
+    <substage>00</substage>
+  </status>
+  <copyright>
+    <from>2017</from>
+    <owner>
+      <organization>
+        <name>International Organization for Standardization</name>
+        <abbreviation>ISO</abbreviation>
+      </organization>
+    </owner>
+  </copyright>
+  <ext>
+    <doctype>amendment</doctype>
+    <editorialgroup>
+      <technical-committee number="34">Food products</technical-committee>
+      <subcommittee number="4" type="SC">Cereals and pulses</subcommittee>
+      <workgroup number="4" type="WG">Amylose in rice</workgroup>
+    </editorialgroup>
+    <ics>
+      <code>67.060</code>
+      <text/>
+    </ics>
+    <structuredidentifier>
+      <project-number part="1">17301</project-number>
+    </structuredidentifier>
+    <stagename>Preliminary work item</stagename>
+  </ext>
+</bibdata></relation>
+<relation type='partOf'><bibdata type="standard">
+  <title type="main" format="text/plain" language="en">Cereals and pulses — Specification and test methods — Rice (final) — Mass fraction of extraneous matter, milled rice (nonglutinous), sample dividers and recommendations relating to storage and transport conditions</title>
+  <title type="title-intro" format="text/plain" language="en">Cereals and pulses</title>
+  <title type="title-main" format="text/plain" language="en">Specification and test methods</title>
+  <title type="title-part" format="text/plain" language="en">Rice (final)</title>
+  <title type="title-amd" format="text/plain" language="en">Mass fraction of extraneous matter, milled rice (nonglutinous), sample dividers and recommendations relating to storage and transport conditions</title>
+  <title type="main" format="text/plain" language="fr">Céréales et légumineuses — Spécification et méthodes d’essai — Riz (final) — Fraction massique de matière étrangère, riz usiné (non gluant), diviseurs d’échantillon et recommandations relatives aux conditions d’entreposage et de transport</title>
+  <title type="title-intro" format="text/plain" language="fr">Céréales et légumineuses</title>
+  <title type="title-main" format="text/plain" language="fr">Spécification et méthodes d’essai</title>
+  <title type="title-part" format="text/plain" language="fr">Riz (final)</title>
+  <title type="title-amd" format="text/plain" language="fr">Fraction massique de matière étrangère, riz usiné (non gluant), diviseurs d’échantillon et recommandations relatives aux conditions d’entreposage et de transport</title>
+  <uri type="xml">documents/amendment/rice-amd.final.xml</uri>
+  <uri type="pdf">documents/amendment/rice-amd.final.pdf</uri>
+  <uri type="doc">documents/amendment/rice-amd.final.doc</uri>
+  <uri type="html">documents/amendment/rice-amd.final.html</uri>
+  <uri type="rxl">documents/amendment/rice-amd.final.rxl</uri>
+  <docidentifier type="ISO">ISO 17301-1:2016/Amd 1:2017</docidentifier>
+  <docidentifier type="iso-with-lang">ISO 17301-1:2016/Amd 1:2017(E)</docidentifier>
+  <docidentifier type="iso-reference">ISO 17301-1:2016/Amd 1:2017(E)</docidentifier>
+  <docnumber>17301</docnumber>
+  <date type="created">
+    <on>2016-05-01</on>
+  </date>
+  <date type="updated">
+    <on>2017-02-01</on>
+  </date>
+  <contributor>
+    <role type="author"/>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <edition>2</edition>
+  <version/>
+  <language>en</language>
+  <script>Latn</script>
+  <status>
+    <stage abbreviation="IS">60</stage>
+    <substage>60</substage>
+  </status>
+  <copyright>
+    <from>2017</from>
+    <owner>
+      <organization>
+        <name>International Organization for Standardization</name>
+        <abbreviation>ISO</abbreviation>
+      </organization>
+    </owner>
+  </copyright>
+  <ext>
+    <doctype>amendment</doctype>
+    <editorialgroup>
+      <technical-committee number="34">Food products</technical-committee>
+      <subcommittee number="4" type="SC">Cereals and pulses</subcommittee>
+      <workgroup number="4" type="WG">Amylose in rice</workgroup>
+    </editorialgroup>
+    <ics>
+      <code>67.060</code>
+      <text/>
+    </ics>
+    <structuredidentifier>
+      <project-number part="1">17301</project-number>
+    </structuredidentifier>
+    <stagename>International standard</stagename>
+  </ext>
+</bibdata></relation>
+<relation type='partOf'><bibdata type="standard">
+  <title type="main" format="text/plain" language="en">Cereals and pulses — Specification and test methods — Rice (DAmd) — Mass fraction of extraneous matter, milled rice (nonglutinous), sample dividers and recommendations relating to storage and transport conditions</title>
+  <title type="title-intro" format="text/plain" language="en">Cereals and pulses</title>
+  <title type="title-main" format="text/plain" language="en">Specification and test methods</title>
+  <title type="title-part" format="text/plain" language="en">Rice (DAmd)</title>
+  <title type="title-amd" format="text/plain" language="en">Mass fraction of extraneous matter, milled rice (nonglutinous), sample dividers and recommendations relating to storage and transport conditions</title>
+  <title type="main" format="text/plain" language="fr">Céréales et légumineuses — Spécification et méthodes d’essai — Riz (DAmd) — Fraction massique de matière étrangère, riz usiné (non gluant), diviseurs d’échantillon et recommandations relatives aux conditions d’entreposage et de transport</title>
+  <title type="title-intro" format="text/plain" language="fr">Céréales et légumineuses</title>
+  <title type="title-main" format="text/plain" language="fr">Spécification et méthodes d’essai</title>
+  <title type="title-part" format="text/plain" language="fr">Riz (DAmd)</title>
+  <title type="title-amd" format="text/plain" language="fr">Fraction massique de matière étrangère, riz usiné (non gluant), diviseurs d’échantillon et recommandations relatives aux conditions d’entreposage et de transport</title>
+  <uri type="xml">documents/amendment/rice-amd.damd.xml</uri>
+  <uri type="pdf">documents/amendment/rice-amd.damd.pdf</uri>
+  <uri type="doc">documents/amendment/rice-amd.damd.doc</uri>
+  <uri type="html">documents/amendment/rice-amd.damd.html</uri>
+  <uri type="rxl">documents/amendment/rice-amd.damd.rxl</uri>
+  <docidentifier type="ISO">ISO 17301-1:2016/DAmd 1</docidentifier>
+  <docidentifier type="iso-with-lang">ISO 17301-1:2016/DAmd 1(E)</docidentifier>
+  <docidentifier type="iso-reference">ISO 17301-1:2016/DAmd 1:2017(E)</docidentifier>
+  <docnumber>17301</docnumber>
+  <date type="created">
+    <on>2016-05-01</on>
+  </date>
+  <contributor>
+    <role type="author"/>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <edition>2</edition>
+  <version/>
+  <language>en</language>
+  <script>Latn</script>
+  <status>
+    <stage abbreviation="D">40</stage>
+    <substage>00</substage>
+  </status>
+  <copyright>
+    <from>2017</from>
+    <owner>
+      <organization>
+        <name>International Organization for Standardization</name>
+        <abbreviation>ISO</abbreviation>
+      </organization>
+    </owner>
+  </copyright>
+  <ext>
+    <doctype>amendment</doctype>
+    <editorialgroup>
+      <technical-committee number="34">Food products</technical-committee>
+      <subcommittee number="4" type="SC">Cereals and pulses</subcommittee>
+      <workgroup number="4" type="WG">Amylose in rice</workgroup>
+    </editorialgroup>
+    <ics>
+      <code>67.060</code>
+      <text/>
+    </ics>
+    <structuredidentifier>
+      <project-number part="1">17301</project-number>
+    </structuredidentifier>
+    <stagename>Draft</stagename>
+  </ext>
+</bibdata></relation>
+<relation type='partOf'><bibdata type="standard">
+  <title type="main" format="text/plain" language="en">Cereals and pulses — Specification and test methods — Rice (FDAmd) — Mass fraction of extraneous matter, milled rice (nonglutinous), sample dividers and recommendations relating to storage and transport conditions</title>
+  <title type="title-intro" format="text/plain" language="en">Cereals and pulses</title>
+  <title type="title-main" format="text/plain" language="en">Specification and test methods</title>
+  <title type="title-part" format="text/plain" language="en">Rice (FDAmd)</title>
+  <title type="title-amd" format="text/plain" language="en">Mass fraction of extraneous matter, milled rice (nonglutinous), sample dividers and recommendations relating to storage and transport conditions</title>
+  <title type="main" format="text/plain" language="fr">Céréales et légumineuses — Spécification et méthodes d’essai — Riz (FDAmd) — Fraction massique de matière étrangère, riz usiné (non gluant), diviseurs d’échantillon et recommandations relatives aux conditions d’entreposage et de transport</title>
+  <title type="title-intro" format="text/plain" language="fr">Céréales et légumineuses</title>
+  <title type="title-main" format="text/plain" language="fr">Spécification et méthodes d’essai</title>
+  <title type="title-part" format="text/plain" language="fr">Riz (FDAmd)</title>
+  <title type="title-amd" format="text/plain" language="fr">Fraction massique de matière étrangère, riz usiné (non gluant), diviseurs d’échantillon et recommandations relatives aux conditions d’entreposage et de transport</title>
+  <uri type="xml">documents/amendment/rice-amd.fdamd.xml</uri>
+  <uri type="pdf">documents/amendment/rice-amd.fdamd.pdf</uri>
+  <uri type="doc">documents/amendment/rice-amd.fdamd.doc</uri>
+  <uri type="html">documents/amendment/rice-amd.fdamd.html</uri>
+  <uri type="rxl">documents/amendment/rice-amd.fdamd.rxl</uri>
+  <docidentifier type="ISO">ISO 17301-1:2016/FDAmd 1</docidentifier>
+  <docidentifier type="iso-with-lang">ISO 17301-1:2016/FDAmd 1(E)</docidentifier>
+  <docidentifier type="iso-reference">ISO 17301-1:2016/FDAmd 1:2017(E)</docidentifier>
+  <docnumber>17301</docnumber>
+  <date type="created">
+    <on>2016-05-01</on>
+  </date>
+  <contributor>
+    <role type="author"/>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <edition>2</edition>
+  <version/>
+  <language>en</language>
+  <script>Latn</script>
+  <status>
+    <stage abbreviation="FD">50</stage>
+    <substage>00</substage>
+  </status>
+  <copyright>
+    <from>2017</from>
+    <owner>
+      <organization>
+        <name>International Organization for Standardization</name>
+        <abbreviation>ISO</abbreviation>
+      </organization>
+    </owner>
+  </copyright>
+  <ext>
+    <doctype>amendment</doctype>
+    <editorialgroup>
+      <technical-committee number="34">Food products</technical-committee>
+      <subcommittee number="4" type="SC">Cereals and pulses</subcommittee>
+      <workgroup number="4" type="WG">Amylose in rice</workgroup>
+    </editorialgroup>
+    <ics>
+      <code>67.060</code>
+      <text/>
+    </ics>
+    <structuredidentifier>
+      <project-number part="1">17301</project-number>
+    </structuredidentifier>
+    <stagename>Final draft</stagename>
+  </ext>
+</bibdata></relation>
+<relation type='partOf'><bibdata type="standard">
+  <title type="main" format="text/plain" language="en">Cereals and pulses — Specification and test methods — Rice (WD) — Mass fraction of extraneous matter, milled rice (nonglutinous), sample dividers and recommendations relating to storage and transport conditions</title>
+  <title type="title-intro" format="text/plain" language="en">Cereals and pulses</title>
+  <title type="title-main" format="text/plain" language="en">Specification and test methods</title>
+  <title type="title-part" format="text/plain" language="en">Rice (WD)</title>
+  <title type="title-amd" format="text/plain" language="en">Mass fraction of extraneous matter, milled rice (nonglutinous), sample dividers and recommendations relating to storage and transport conditions</title>
+  <title type="main" format="text/plain" language="fr">Céréales et légumineuses — Spécification et méthodes d’essai — Riz (WD) — Fraction massique de matière étrangère, riz usiné (non gluant), diviseurs d’échantillon et recommandations relatives aux conditions d’entreposage et de transport</title>
+  <title type="title-intro" format="text/plain" language="fr">Céréales et légumineuses</title>
+  <title type="title-main" format="text/plain" language="fr">Spécification et méthodes d’essai</title>
+  <title type="title-part" format="text/plain" language="fr">Riz (WD)</title>
+  <title type="title-amd" format="text/plain" language="fr">Fraction massique de matière étrangère, riz usiné (non gluant), diviseurs d’échantillon et recommandations relatives aux conditions d’entreposage et de transport</title>
+  <uri type="xml">documents/amendment/rice-amd.wd.xml</uri>
+  <uri type="pdf">documents/amendment/rice-amd.wd.pdf</uri>
+  <uri type="doc">documents/amendment/rice-amd.wd.doc</uri>
+  <uri type="html">documents/amendment/rice-amd.wd.html</uri>
+  <uri type="rxl">documents/amendment/rice-amd.wd.rxl</uri>
+  <docidentifier type="ISO">ISO 17301-1:2016/WD Amd 1</docidentifier>
+  <docidentifier type="iso-with-lang">ISO 17301-1:2016/WD Amd 1(E)</docidentifier>
+  <docidentifier type="iso-reference">ISO 17301-1:2016/WD Amd 1:2017(E)</docidentifier>
+  <docnumber>17301</docnumber>
+  <date type="created">
+    <on>2016-05-01</on>
+  </date>
+  <contributor>
+    <role type="author"/>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <edition>2</edition>
+  <version/>
+  <language>en</language>
+  <script>Latn</script>
+  <status>
+    <stage abbreviation="WD">20</stage>
+    <substage>00</substage>
+  </status>
+  <copyright>
+    <from>2017</from>
+    <owner>
+      <organization>
+        <name>International Organization for Standardization</name>
+        <abbreviation>ISO</abbreviation>
+      </organization>
+    </owner>
+  </copyright>
+  <ext>
+    <doctype>amendment</doctype>
+    <editorialgroup>
+      <technical-committee number="34">Food products</technical-committee>
+      <subcommittee number="4" type="SC">Cereals and pulses</subcommittee>
+      <workgroup number="4" type="WG">Amylose in rice</workgroup>
+    </editorialgroup>
+    <ics>
+      <code>67.060</code>
+      <text/>
+    </ics>
+    <structuredidentifier>
+      <project-number part="1">17301</project-number>
+    </structuredidentifier>
+    <stagename>Working draft</stagename>
+  </ext>
+</bibdata></relation>
+<relation type='partOf'><bibdata type="standard">
+  <title type="main" format="text/plain" language="en">Cereals and pulses — Specification and test methods — Rice (AWI) — Mass fraction of extraneous matter, milled rice (nonglutinous), sample dividers and recommendations relating to storage and transport conditions</title>
+  <title type="title-intro" format="text/plain" language="en">Cereals and pulses</title>
+  <title type="title-main" format="text/plain" language="en">Specification and test methods</title>
+  <title type="title-part" format="text/plain" language="en">Rice (AWI)</title>
+  <title type="title-amd" format="text/plain" language="en">Mass fraction of extraneous matter, milled rice (nonglutinous), sample dividers and recommendations relating to storage and transport conditions</title>
+  <title type="main" format="text/plain" language="fr">Céréales et légumineuses — Spécification et méthodes d’essai — Riz (AWI) — Fraction massique de matière étrangère, riz usiné (non gluant), diviseurs d’échantillon et recommandations relatives aux conditions d’entreposage et de transport</title>
+  <title type="title-intro" format="text/plain" language="fr">Céréales et légumineuses</title>
+  <title type="title-main" format="text/plain" language="fr">Spécification et méthodes d’essai</title>
+  <title type="title-part" format="text/plain" language="fr">Riz (AWI)</title>
+  <title type="title-amd" format="text/plain" language="fr">Fraction massique de matière étrangère, riz usiné (non gluant), diviseurs d’échantillon et recommandations relatives aux conditions d’entreposage et de transport</title>
+  <uri type="xml">documents/amendment/rice-amd.awi.xml</uri>
+  <uri type="pdf">documents/amendment/rice-amd.awi.pdf</uri>
+  <uri type="doc">documents/amendment/rice-amd.awi.doc</uri>
+  <uri type="html">documents/amendment/rice-amd.awi.html</uri>
+  <uri type="rxl">documents/amendment/rice-amd.awi.rxl</uri>
+  <docidentifier type="ISO">ISO 17301-1:2016/AWI Amd 1</docidentifier>
+  <docidentifier type="iso-with-lang">ISO 17301-1:2016/AWI Amd 1(E)</docidentifier>
+  <docidentifier type="iso-reference">ISO 17301-1:2016/AWI Amd 1:2017(E)</docidentifier>
+  <docnumber>17301</docnumber>
+  <date type="created">
+    <on>2016-05-01</on>
+  </date>
+  <contributor>
+    <role type="author"/>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <edition>2</edition>
+  <version/>
+  <language>en</language>
+  <script>Latn</script>
+  <status>
+    <stage abbreviation="AWI">10</stage>
+    <substage>99</substage>
+  </status>
+  <copyright>
+    <from>2017</from>
+    <owner>
+      <organization>
+        <name>International Organization for Standardization</name>
+        <abbreviation>ISO</abbreviation>
+      </organization>
+    </owner>
+  </copyright>
+  <ext>
+    <doctype>amendment</doctype>
+    <editorialgroup>
+      <technical-committee number="34">Food products</technical-committee>
+      <subcommittee number="4" type="SC">Cereals and pulses</subcommittee>
+      <workgroup number="4" type="WG">Amylose in rice</workgroup>
+    </editorialgroup>
+    <ics>
+      <code>67.060</code>
+      <text/>
+    </ics>
+    <structuredidentifier>
+      <project-number part="1">17301</project-number>
+    </structuredidentifier>
+    <stagename>New work item proposal</stagename>
+  </ext>
+</bibdata></relation>
+</relaton-collection>
